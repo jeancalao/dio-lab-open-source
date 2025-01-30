@@ -9,10 +9,10 @@ Atualmente sou Tech Lead de uma Grande Empresa Têxtil, atuando com uma equipe d
 Meu objetivo é aprender novas tecnologias , inclusive ferramentas Low-code / No-Code para poder agregar conhecimento à equipe, melhorando a produtividade e escalabilidade.
 
 ### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/alcimartri1998?tab=skills/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:alcimartri1998@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/alcimar-m-trindade/)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](discordapp.com/users/soloniudsdn#0/)
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/jeancalao)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:jeancalao@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jeancalao/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](discordapp.com/users/jeancalao/)
 
 ### Habilidades
 
@@ -26,5 +26,4 @@ Meu objetivo é aprender novas tecnologias , inclusive ferramentas Low-code / No
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-https://img.shields.io/docker/automated/:user/:repo
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeancalao&theme=transparent&bg_color=000&border_color=3FFFFF)
